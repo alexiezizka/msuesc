@@ -1,2 +1,2 @@
 # msuesc
-Mississippi State University ESC
+Mississippi State University ESC Website
